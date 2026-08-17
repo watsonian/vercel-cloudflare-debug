@@ -1,0 +1,5 @@
+{
+  "image": "us-central1-docker.pkg.dev/gar-prod-73b1cdf/devtools/devcontainer-lite:latest",
+  "workspaceFolder": "/workspaces/vercel-cloudflare-debug"
+}
+
